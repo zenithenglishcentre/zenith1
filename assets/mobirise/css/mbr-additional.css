@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+@isPublish: true;
+
+#slider-1 {
+H2 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  text-align: center;
+}
+P {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+}
+
+#menu-2 {
+.navbar-toggler {
+  color: #000000;
+}
+}
+
+#content1-3 {
+}
+
+#gallery2-4 {
+}
+
+#custom-html-5 {
+/* Type valid CSS here */
+.my-image {
+  width: 100%;
+}
+google-site-verification: google7b4cae29e9a24501.html}
